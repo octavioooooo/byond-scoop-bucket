@@ -1,0 +1,10 @@
+{
+  "version": "516.1681",
+  "description": "BYOND game engine",
+  "homepage": "https://www.byond.com/",
+  "url": "https://www.byond.com/download/build/515/516.1681_byond.exe",
+  "installer": {
+    "args": "/S"
+  },
+  "bin": "byond.exe"
+}
