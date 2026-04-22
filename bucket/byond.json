@@ -4,7 +4,7 @@
   "homepage": "https://www.byond.com/",
   "url": "https://www.byond.com/download/build/516/516.1681_byond.exe",
   "installer": {
-    "args": "/S"
+    "interactive": true
   },
-  "bin": "byond.exe"
+  "installer_success_codes": [0, 1223, 50944]
 }
